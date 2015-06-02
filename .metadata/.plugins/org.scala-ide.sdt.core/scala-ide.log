@@ -1,0 +1,1102 @@
+2015-04-13 15:19:03,376 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2015-04-13 15:23:14,172 ERROR [Worker-3] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-04-13 15:23:14,174 ERROR [Worker-3] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-04-13 15:23:14,174 ERROR [Worker-3] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-04-13 15:29:41,693 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found.
+2015-04-13 15:30:28,578 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found.
+2015-04-13 15:31:32,685 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found.
+2015-04-13 15:31:37,488  WARN [org.eclipse.jdt.internal.ui.text.JavaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2015-04-13 15:35:54,882 ERROR [Scala Presentation Compiler [example]] - System.err - scala.MatchError: false (of class scala.reflect.internal.Trees$Literal)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickleAtom(Macros.scala:118)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.foreach(List.scala:318)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.TraversableLike$class.map(TraversableLike.scala:244)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.AbstractTraversable.map(Traversable.scala:105)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickle(Macros.scala:186)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$loadMacroImplBinding(Macros.scala:205)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:522)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:521)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroRuntime(Macros.scala:521)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:795)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:787)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.Global.withInfoLevel(Global.scala:190)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroExpand1(Macros.scala:787)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Macros$class.macroExpand(Macros.scala:701)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.Global$$anon$1.macroExpand(Global.scala:493)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1152)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5660)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedArg(Typers.scala:3042)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.loop$1(Typers.scala:3069)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedArgs(Typers.scala:3074)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$handleMonomorphicCall$1(Typers.scala:3354)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3398)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4627)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4659)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5564)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.loop$1(List.scala:170)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.mapConserve(List.scala:186)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1919)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1759)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5583)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+2015-04-13 15:35:54,883 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.loop$1(List.scala:170)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.mapConserve(List.scala:186)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5301)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5587)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5704)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:99)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:464)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.reflect.internal.SymbolTable.atPhase(SymbolTable.scala:207)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1173)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1166)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:592)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5$$anonfun$apply$7.apply(Global.scala:508)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:504)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:504)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.immutable.List.foreach(List.scala:318)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:504)
+2015-04-13 15:35:54,884 ERROR [Scala Presentation Compiler [example]] - System.err - at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2015-04-13 15:35:55,147 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - AT: RangePosition(/Users/nehal.shah/Projects/courses/reactive/example/src/test/scala/example/ListsSuite.scala, 1471, 1477, 1489)
+scala.MatchError: false (of class scala.reflect.internal.Trees$Literal)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickleAtom(Macros.scala:118)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:244)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:105)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickle(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$loadMacroImplBinding(Macros.scala:205)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:522)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:521)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroRuntime(Macros.scala:521)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:795)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:787)
+	at scala.tools.nsc.Global.withInfoLevel(Global.scala:190)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroExpand1(Macros.scala:787)
+	at scala.tools.nsc.typechecker.Macros$class.macroExpand(Macros.scala:701)
+	at scala.tools.nsc.Global$$anon$1.macroExpand(Global.scala:493)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1152)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5660)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArg(Typers.scala:3042)
+	at scala.tools.nsc.typechecker.Typers$Typer.loop$1(Typers.scala:3069)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArgs(Typers.scala:3074)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$handleMonomorphicCall$1(Typers.scala:3354)
+	at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3398)
+	at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4627)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4659)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5564)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1919)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1759)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5583)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5301)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5587)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5704)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:464)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.reflect.internal.SymbolTable.atPhase(SymbolTable.scala:207)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1166)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:592)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5$$anonfun$apply$7.apply(Global.scala:508)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:504)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:504)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:504)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2015-04-13 15:35:55,357 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - ImplicitHighlightingPresenter - scala.MatchError: false (of class scala.reflect.internal.Trees$Literal)
+2015-04-13 15:38:29,559 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - AT: RangePosition(/Users/nehal.shah/Projects/courses/reactive/example/src/test/scala/example/ListsSuite.scala, 1471, 1477, 1489)
+scala.MatchError: false (of class scala.reflect.internal.Trees$Literal)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickleAtom(Macros.scala:118)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:244)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:105)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickle(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$loadMacroImplBinding(Macros.scala:205)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:522)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:521)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroRuntime(Macros.scala:521)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:795)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:787)
+	at scala.tools.nsc.Global.withInfoLevel(Global.scala:190)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroExpand1(Macros.scala:787)
+	at scala.tools.nsc.typechecker.Macros$class.macroExpand(Macros.scala:701)
+	at scala.tools.nsc.Global$$anon$1.macroExpand(Global.scala:493)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1152)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5660)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArg(Typers.scala:3042)
+	at scala.tools.nsc.typechecker.Typers$Typer.loop$1(Typers.scala:3069)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArgs(Typers.scala:3074)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$handleMonomorphicCall$1(Typers.scala:3354)
+	at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3398)
+	at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4627)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4659)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5564)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1919)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1759)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5583)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5301)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5587)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5704)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:464)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.reflect.internal.SymbolTable.atPhase(SymbolTable.scala:207)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1166)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:592)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typedTreeAt(Global.scala:741)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:764)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:764)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:623)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:623)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:630)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:623)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:764)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:354)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:395)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-04-13 15:38:42,407 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - AT: RangePosition(/Users/nehal.shah/Projects/courses/reactive/example/src/test/scala/example/ListsSuite.scala, 1471, 1477, 1489)
+scala.MatchError: false (of class scala.reflect.internal.Trees$Literal)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickleAtom(Macros.scala:118)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$$anonfun$6.apply(Macros.scala:186)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:244)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:244)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:105)
+	at scala.tools.nsc.typechecker.Macros$MacroImplBinding$.unpickle(Macros.scala:186)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$loadMacroImplBinding(Macros.scala:205)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:522)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroRuntime$3.apply(Macros.scala:521)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroRuntime(Macros.scala:521)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:795)
+	at scala.tools.nsc.typechecker.Macros$$anonfun$scala$tools$nsc$typechecker$Macros$$macroExpand1$1.apply(Macros.scala:787)
+	at scala.tools.nsc.Global.withInfoLevel(Global.scala:190)
+	at scala.tools.nsc.typechecker.Macros$class.scala$tools$nsc$typechecker$Macros$$macroExpand1(Macros.scala:787)
+	at scala.tools.nsc.typechecker.Macros$class.macroExpand(Macros.scala:701)
+	at scala.tools.nsc.Global$$anon$1.macroExpand(Global.scala:493)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1152)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5660)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArg(Typers.scala:3042)
+	at scala.tools.nsc.typechecker.Typers$Typer.loop$1(Typers.scala:3069)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArgs(Typers.scala:3074)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$handleMonomorphicCall$1(Typers.scala:3354)
+	at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3398)
+	at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4627)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4659)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5564)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1919)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1759)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5583)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2928)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$61.apply(Typers.scala:3032)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3032)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5301)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5587)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5642)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5704)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:464)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1173)
+	at scala.reflect.internal.SymbolTable.atPhase(SymbolTable.scala:207)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1173)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1166)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:592)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typedTreeAt(Global.scala:741)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:764)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:764)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:623)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:623)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:630)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:623)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:764)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:354)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:395)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-04-13 15:49:29,197  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-04-13 15:49:29,199  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-04-13 15:49:29,236  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-04-13 15:49:29,236  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-04-13 15:49:30,879  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-13 15:49:30,895  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-13 15:50:44,769 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-04-13 15:50:44,769 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-04-13 15:50:44,769 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-04-13 16:02:07,837  WARN [ModalContext] - ScalaProject - Project quickcheck has platform default sourceLevel.
+2015-04-13 16:02:07,838  WARN [ModalContext] - ScalaProject - Project quickcheck runs on platform default installation.
+2015-04-13 16:02:07,838  WARN [ModalContext] - ScalaProject - Project quickcheck has platform default sourceLevel.
+2015-04-13 16:02:07,838  WARN [ModalContext] - ScalaProject - Project quickcheck runs on platform default installation.
+2015-04-13 16:02:27,845 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(value <local QuickCheckSuite>) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-04-13 16:23:35,339 ERROR [ServerConnection] - System.err - Exception in thread "ServerConnection"
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - java.lang.StringIndexOutOfBoundsException: String index out of range: -5
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at java.lang.String.substring(String.java:1954)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.addTreeEntry(TestRunSession.java:486)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.access$2(TestRunSession.java:476)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testTreeEntry(TestRunSession.java:603)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestTreeEntry(RemoteTestRunnerClient.java:476)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$12(RemoteTestRunnerClient.java:470)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:114)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+2015-04-13 16:23:35,340 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - Exception in thread "ServerConnection"
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - java.lang.StringIndexOutOfBoundsException: String index out of range: -5
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at java.lang.String.substring(String.java:1954)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.addTreeEntry(TestRunSession.java:486)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.access$2(TestRunSession.java:476)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testTreeEntry(TestRunSession.java:603)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestTreeEntry(RemoteTestRunnerClient.java:476)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$12(RemoteTestRunnerClient.java:470)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:114)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+2015-04-13 16:23:54,730 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - Exception in thread "ServerConnection"
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - java.lang.StringIndexOutOfBoundsException: String index out of range: -5
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at java.lang.String.substring(String.java:1954)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.addTreeEntry(TestRunSession.java:486)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.access$2(TestRunSession.java:476)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testTreeEntry(TestRunSession.java:603)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestTreeEntry(RemoteTestRunnerClient.java:476)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$12(RemoteTestRunnerClient.java:470)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:114)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+2015-04-13 16:26:12,628 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+2015-04-13 16:43:31,470 ERROR [ServerConnection] - System.err - Exception in thread "ServerConnection"
+2015-04-13 16:43:31,470 ERROR [ServerConnection] - System.err - java.lang.StringIndexOutOfBoundsException: String index out of range: -5
+2015-04-13 16:43:31,470 ERROR [ServerConnection] - System.err - at java.lang.String.substring(String.java:1954)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.addTreeEntry(TestRunSession.java:486)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession.access$2(TestRunSession.java:476)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testTreeEntry(TestRunSession.java:603)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestTreeEntry(RemoteTestRunnerClient.java:476)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$12(RemoteTestRunnerClient.java:470)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:114)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+2015-04-13 16:43:31,471 ERROR [ServerConnection] - System.err - at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+2015-04-13 18:16:48,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-13 18:16:48,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-13 18:16:48,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-13 18:19:12,249 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-13 18:19:12,250 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-13 18:19:12,250 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 14:34:03,013  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-20 14:34:03,015  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-20 14:35:55,156  WARN [ModalContext] - ScalaProject - Project calculator has platform default sourceLevel.
+2015-04-20 14:35:55,158  WARN [ModalContext] - ScalaProject - Project calculator runs on platform default installation.
+2015-04-20 14:35:55,158  WARN [ModalContext] - ScalaProject - Project calculator has platform default sourceLevel.
+2015-04-20 14:35:55,158  WARN [ModalContext] - ScalaProject - Project calculator runs on platform default installation.
+2015-04-20 14:53:50,304 ERROR [Worker-19] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-04-20 14:53:50,304 ERROR [Worker-19] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-04-20 14:53:50,304 ERROR [Worker-19] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-04-20 14:57:17,333 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 14:57:17,333 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 14:57:17,334 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:03:25,206 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:03:25,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:03:25,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:48:17,524 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:48:17,524 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-20 15:48:17,524 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 14:57:48,765  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for calculator, setting default to 2.11.
+2015-04-21 14:57:48,779  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for calculator, setting default to 2.11.
+2015-04-21 16:29:05,534 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 16:29:05,535 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 16:29:05,535 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 17:04:02,795  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-21 17:04:02,796  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-21 17:05:54,384  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-21 17:05:54,385  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-21 17:12:56,807  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-21 17:12:56,809  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-21 21:13:44,387  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-21 21:13:44,389  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-21 23:33:27,698 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 23:33:27,935 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 23:33:27,935 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-21 23:33:27,935 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-27 18:14:08,378  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-27 18:14:08,381  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-27 18:15:57,715  WARN [ModalContext] - ScalaProject - Project nodescala has platform default sourceLevel.
+2015-04-27 18:15:57,716  WARN [ModalContext] - ScalaProject - Project nodescala runs on platform default installation.
+2015-04-27 18:15:57,718  WARN [ModalContext] - ScalaProject - Project nodescala has platform default sourceLevel.
+2015-04-27 18:15:57,718  WARN [ModalContext] - ScalaProject - Project nodescala runs on platform default installation.
+2015-04-27 18:15:58,396  WARN [Worker-6] - ScalaProject - Project nodescala has platform default sourceLevel.
+2015-04-27 18:15:58,396  WARN [Worker-6] - ScalaProject - Project nodescala runs on platform default installation.
+2015-04-29 14:56:19,643  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-04-29 14:56:19,646  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-04-29 14:57:03,068 ERROR [Worker-1] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-04-29 14:57:03,070 ERROR [Worker-1] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-04-29 14:57:03,070 ERROR [Worker-1] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-04-29 17:51:58,020 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-29 17:51:58,021 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-29 17:51:58,021 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-29 18:21:49,535 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-29 18:21:49,535 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-29 18:21:49,535 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:28:16,060  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for nodescala, setting default to 2.11.
+2015-04-30 10:28:16,062  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for nodescala, setting default to 2.11.
+2015-04-30 10:29:02,522 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:02,523 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:02,523 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:46,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:46,216 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:46,216 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:53,321 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:53,321 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:29:53,321 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:35:54,509 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:35:54,509 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-30 10:35:54,509 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 13:59:35,164  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for nodescala, setting default to 2.11.
+2015-05-04 13:59:35,166  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for nodescala, setting default to 2.11.
+2015-05-04 14:25:04,914 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 14:25:04,915 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 14:25:04,915 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 14:29:48,114 ERROR [Worker-15] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-04 14:29:48,114 ERROR [Worker-15] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-04 14:29:48,114 ERROR [Worker-15] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-04 16:53:58,286 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(method apply) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:853)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-05-04 17:15:04,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:15:04,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:15:04,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:31:20,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:31:20,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:31:20,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:43:07,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:43:07,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-04 17:43:07,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-10 22:35:03,291  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-10 22:35:03,293  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-11 15:53:17,382  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-11 15:53:17,384  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-11 15:54:02,040  WARN [ModalContext] - ScalaProject - Project suggestions has platform default sourceLevel.
+2015-05-11 15:54:02,041  WARN [ModalContext] - ScalaProject - Project suggestions runs on platform default installation.
+2015-05-11 15:54:02,041  WARN [ModalContext] - ScalaProject - Project suggestions has platform default sourceLevel.
+2015-05-11 15:54:02,041  WARN [ModalContext] - ScalaProject - Project suggestions runs on platform default installation.
+2015-05-11 15:54:16,220  WARN [ModalContext] - ScalaProject - Project actorbintree has platform default sourceLevel.
+2015-05-11 15:54:16,221  WARN [ModalContext] - ScalaProject - Project actorbintree runs on platform default installation.
+2015-05-11 15:54:16,222  WARN [ModalContext] - ScalaProject - Project actorbintree has platform default sourceLevel.
+2015-05-11 15:54:16,222  WARN [ModalContext] - ScalaProject - Project actorbintree runs on platform default installation.
+2015-05-11 15:54:16,416  WARN [Worker-3] - ScalaProject - Project actorbintree has platform default sourceLevel.
+2015-05-11 15:54:16,416  WARN [Worker-3] - ScalaProject - Project actorbintree runs on platform default installation.
+2015-05-14 15:45:14,746  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-14 15:45:14,748  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-15 13:05:13,625  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for suggestions, setting default to 2.11.
+2015-05-15 13:05:13,630  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for suggestions, setting default to 2.11.
+2015-05-15 13:56:25,523 ERROR [Worker-39] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-15 13:56:25,524 ERROR [Worker-39] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-15 13:56:25,524 ERROR [Worker-39] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-15 14:37:01,516 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(method top) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-05-15 14:50:28,979 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-15 14:50:28,979 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-15 14:50:28,980 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-15 14:50:44,634 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(value button) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-05-15 14:50:46,145 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(method top) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-05-15 14:56:10,487 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(value <local $anon>) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-05-15 14:56:18,664 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(method top) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5418)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5463)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedFunction(Typers.scala:2987)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$typedFunction$1$1.apply(Typers.scala:5284)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$typedFunction$1$1.apply(Typers.scala:5284)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedFunction$1(Typers.scala:5284)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5321)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedArg(Typers.scala:3163)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedArgToPoly$1(Typers.scala:3514)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$72.apply(Typers.scala:3522)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$72.apply(Typers.scala:3522)
+	at scala.reflect.internal.util.Collections$class.map2(Collections.scala:79)
+	at scala.reflect.internal.SymbolTable.map2(SymbolTable.scala:16)
+	at scala.tools.nsc.typechecker.Typers$Typer.handlePolymorphicCall$1(Typers.scala:3522)
+	at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3533)
+	at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4544)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4578)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5343)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.transformedOrTyped(Typers.scala:5605)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:2208)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5308)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:132)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper$class.typedDocDef(ScaladocAnalyzer.scala:52)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5335)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1921)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1762)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5309)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1921)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1762)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5309)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:132)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper$class.typedDocDef(ScaladocAnalyzer.scala:52)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5335)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5012)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5312)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5012)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5312)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5448)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:441)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:432)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:441)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1225)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1225)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1225)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1218)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:668)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5$$anonfun$apply$8.apply(Global.scala:583)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:579)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:579)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:579)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2015-05-15 17:24:34,534  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for actorbintree, setting default to 2.11.
+2015-05-15 17:24:34,541  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for actorbintree, setting default to 2.11.
+2015-05-15 17:37:03,022 ERROR [Worker-11] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-15 17:37:03,026 ERROR [Worker-11] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-15 17:37:03,026 ERROR [Worker-11] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-15 17:43:29,956 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-15 17:43:29,956 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-15 17:43:29,956 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 10:10:52,121  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for actorbintree, setting default to 2.11.
+2015-05-18 10:10:52,124  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for actorbintree, setting default to 2.11.
+2015-05-18 10:11:09,251  WARN [ModalContext] - ScalaProject - Project kvstore has platform default sourceLevel.
+2015-05-18 10:11:09,252  WARN [ModalContext] - ScalaProject - Project kvstore runs on platform default installation.
+2015-05-18 10:11:09,252  WARN [ModalContext] - ScalaProject - Project kvstore has platform default sourceLevel.
+2015-05-18 10:11:09,252  WARN [ModalContext] - ScalaProject - Project kvstore runs on platform default installation.
+2015-05-18 13:37:26,852 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:37:26,852 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:37:26,852 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:24,580 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:24,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:24,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:31,853 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:31,853 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 13:42:31,854 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:10:17,410 ERROR [Worker-38] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-18 14:10:17,410 ERROR [Worker-38] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-18 14:10:17,410 ERROR [Worker-38] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-18 14:15:51,413 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:15:51,413 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:15:51,413 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:27:06,619 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:27:06,619 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:27:06,620 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:51:33,147 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:51:33,147 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 14:51:33,147 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:31:03,857 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:31:03,857 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:31:03,857 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:36:00,705 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:36:00,705 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:36:00,705 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-18 16:45:13,070  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-05-18 17:45:32,726 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 19:32:33,019  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-19 19:32:33,020  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-19 19:39:15,660 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-19 19:39:15,661 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-19 19:39:15,661 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-19 19:46:03,838 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 19:46:03,838 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 19:46:03,839 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:10:06,165 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:10:06,166 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:10:06,166 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:19:07,077 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:19:07,077 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:19:07,077 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:23:14,293 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:23:14,293 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:23:14,293 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:33:57,566 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:33:57,972 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:33:57,972 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-19 20:33:57,972 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-20 14:22:05,044  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-20 14:22:05,046  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-21 08:35:30,670  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-21 08:35:30,672  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-21 09:29:13,245 ERROR [Worker-24] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-21 09:29:13,245 ERROR [Worker-24] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-21 09:29:13,245 ERROR [Worker-24] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-21 09:29:50,986  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-21 09:29:50,989  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-21 09:38:10,702 ERROR [Worker-0] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-21 09:38:10,703 ERROR [Worker-0] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-21 09:38:10,703 ERROR [Worker-0] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-21 09:41:38,240 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 09:41:38,240 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 09:41:38,240 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:47:58,048 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:47:58,048 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:47:58,048 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:48:03,575 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:48:03,575 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-21 15:48:03,575 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 12:16:02,784  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-22 12:16:02,786  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-22 12:16:27,194 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-22 12:16:27,195 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-22 12:16:27,195 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-22 12:30:51,630 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 12:30:51,630 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 12:30:51,631 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:43:54,633 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:43:54,634 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:43:54,634 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:23,803 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:23,803 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:23,803 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:39,425 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:39,425 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:54:39,425 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:31,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:31,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:31,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,848 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,848 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,848 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,849 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,850 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:33,851 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-22 13:57:47,726 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 09:45:50,670  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-26 09:45:50,673  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-26 09:46:39,414 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-26 09:46:39,415 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-26 09:46:39,415 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-26 12:19:22,402 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:19:22,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:19:22,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:19:22,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:22:35,865 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:22:35,866 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:22:35,866 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:07,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:07,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:07,087 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:14,283 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:14,283 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:40:14,283 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:42:50,886 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:42:50,960 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:42:50,960 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 12:42:50,961 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:46:39,872  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-26 15:46:39,874  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-26 15:52:06,346 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:52:06,348 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:52:06,348 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:56:13,546 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:56:13,546 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:56:13,546 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 15:58:32,284 ERROR [Worker-13] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-26 15:58:32,285 ERROR [Worker-13] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-26 15:58:32,285 ERROR [Worker-13] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-26 16:00:03,904 ERROR [Thread-385] - System.err - Exception in thread "Thread-385"
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - java.util.NoSuchElementException: head of empty list
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.collection.immutable.Nil$.head(List.scala:420)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.collection.immutable.Nil$.head(List.scala:417)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.collection.mutable.Stack.pop(Stack.scala:140)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.tools.eclipse.scalatest.ui.SuiteModel.closeScope(ScalaTestModels.scala:186)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.tools.eclipse.scalatest.ui.ScalaTestRunnerViewPart.update(ScalaTestRunnerViewPart.scala:287)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at java.util.Observable.notifyObservers(Observable.java:159)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.tools.eclipse.scalatest.ui.ScalaTestListener.send(ScalaTestListener.scala:363)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at scala.tools.eclipse.scalatest.ui.ScalaTestListener.run(ScalaTestListener.scala:120)
+2015-05-26 16:00:03,905 ERROR [Thread-385] - System.err - at java.lang.Thread.run(Thread.java:745)
+2015-05-26 17:12:49,348 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 17:12:49,349 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-26 17:12:49,349 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-28 11:13:06,157  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-28 11:13:06,160  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-28 11:37:27,329 ERROR [Worker-10] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-28 11:37:27,330 ERROR [Worker-10] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-28 11:37:27,330 ERROR [Worker-10] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-28 11:40:32,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-28 11:40:32,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-28 11:40:32,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 10:49:54,850  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-29 10:49:54,854  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-29 11:00:08,617 ERROR [Worker-13] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-29 11:00:08,618 ERROR [Worker-13] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-29 11:00:08,618 ERROR [Worker-13] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-29 16:50:45,456  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-05-29 16:50:45,457  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-05-29 16:50:45,814 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 16:50:45,814 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 16:50:45,816 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 16:55:23,325 ERROR [Worker-7] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-29 16:55:23,325 ERROR [Worker-7] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-29 16:55:23,325 ERROR [Worker-7] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-29 16:56:15,262 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 16:56:15,263 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 16:56:15,263 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:06:36,836 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:06:36,923 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:06:36,923 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:06:36,923 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:13:25,314 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:13:25,315 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-29 17:13:25,315 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 22:55:57,541  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-05-31 22:55:57,544  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2015-05-31 22:58:06,471 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-05-31 22:58:06,472 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-05-31 22:58:06,472 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-05-31 23:14:50,474 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:14:50,475 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:14:50,475 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:28,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:28,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:28,365 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:38,451 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:38,451 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:38,451 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:52,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:52,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:17:52,769 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:18:09,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:18:09,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:18:09,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:23:12,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:23:12,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:23:12,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:31:06,280 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.tools.nsc.interactive.FreshRunReq
+2015-05-31 23:31:06,292 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Incorrectly logged ControlThrowable: FreshRunReq(null)
+scala.tools.nsc.interactive.FreshRunReq
+2015-05-31 23:34:03,857 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:34:03,858 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:34:03,858 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,247 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:35:51,247 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:38:02,083 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:38:02,084 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:38:02,084 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:43:39,867 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:45:36,993 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:45:37,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:45:37,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:45:37,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:48:28,134 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:48:28,450 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:48:28,450 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:48:28,450 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:59:05,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:59:05,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-05-31 23:59:05,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 00:01:40,432 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 00:01:40,432 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 00:01:40,432 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 09:49:49,027  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for kvstore, setting default to 2.11.
+2015-06-01 09:49:49,031  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for kvstore, setting default to 2.11.
+2015-06-01 09:50:02,829 ERROR [Worker-1] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-06-01 09:50:02,830 ERROR [Worker-1] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-06-01 09:50:02,830 ERROR [Worker-1] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-06-01 09:51:53,655 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 09:51:53,655 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 09:51:53,655 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-01 10:07:02,691 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
